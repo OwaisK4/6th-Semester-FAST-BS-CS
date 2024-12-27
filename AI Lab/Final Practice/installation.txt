@@ -1,0 +1,9 @@
+!pip install python-constraint math random itertools numpy pandas pomegranate==v0.14.9 pgmpy hmmlearn matplotlib mlxtend streamlit pillow gym
+
+!pip install --force-reinstall pomegranate
+!pip install --upgrade TBB
+!pip show TBB
+
+pip install -U scikit-learn
+
+pip install tensorflow
